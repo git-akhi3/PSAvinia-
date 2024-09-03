@@ -1,0 +1,12 @@
+
+### **2. requirements.txt**
+
+
+streamlit
+transformers
+torch
+pandas
+beautifulsoup4
+requests
+openpyxl
+python-docx
